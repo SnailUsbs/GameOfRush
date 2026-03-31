@@ -13,8 +13,6 @@ This is a simple mod that adds in conway's game of life into Bomb rush Cyberfunk
 
 - **Adjustable Game Speed/Colors**
 
-- **Option To Have The Game Run In The Background While The In-Game Phone Is Closed**
-
 # Important Info:
 
 - Since this is more of a fun proof of concept rather than a truly useful or fun, It will not be going up on thunderstore, and instead will only be held in this github repo.
