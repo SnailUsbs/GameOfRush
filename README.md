@@ -15,4 +15,4 @@ This is a simple mod that adds in conway's game of life into Bomb rush Cyberfunk
 
 # Important Info:
 
-- Since this is more of a fun proof of concept rather than a truly useful or fun, It will not be going up on thunderstore, and instead will only be held in this github repo.
+- Since this is more of a fun proof of concept rather than a truly useful or fun mod, It will not be going up on thunderstore, and instead will only be held in this github repo.
